@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Vendor: Typesafe Inc.
+Specification-Title: akka-remote
+Specification-Version: 2.3.4-spark
+
